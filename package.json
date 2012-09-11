@@ -1,8 +1,8 @@
 {
   "author": "Mark Wallace <mark@emotive.com>",
-  "name": "sfproxy",
+  "name": "emsfdc",
   "description": "MMS proxy for Salesforce.com",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "homepage": "http://www.emotive.com",
   "dependencies": {
     "xml2js":"0.1.14"
