@@ -1,1 +1,1 @@
-module.exports = require('./lib/sfproxy');
+module.exports = require('./lib/emsfproxy');
