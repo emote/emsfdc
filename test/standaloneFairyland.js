@@ -1,6 +1,7 @@
 // Start a proxy standalone with:
-// cat fairylandConfig.xml | node proxy/GenericSFDC/index.js
-// Then run this test script.
+// echo "{}" | node startProxy.js
+// Then run this test script:
+// node standaloneFairyland.js http://localhost:9000 creds.json 
 
 var request = require('request');
 var util = require('util');
