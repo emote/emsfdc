@@ -2,7 +2,7 @@
   "author": "Mark Wallace <mark@emotive.com>",
   "name": "emsfdc",
   "description": "MMS proxy for Salesforce.com",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "homepage": "http://www.emotive.com",
   "dependencies" : {
     "emsoap"   : "https://github.com/emote/emsoap/tarball/v1.0.5",
