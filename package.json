@@ -4,9 +4,13 @@
   "description": "MMS proxy for Salesforce.com",
   "version": "1.1.1",
   "homepage": "http://www.emotive.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emote/emsfdc"
+  },
   "dependencies" : {
-    "emsoap"   : "https://github.com/emote/emsoap/tarball/v1.0.5",
-    "emxml2js"  : "https://github.com/emote/emxml2js/tarball/v0.1.14"
+    "emsoap"   : "1.0.x",
+    "emxml2js"  : "0.1.14"
   },
   "devDependencies": {},
   "optionalDependencies": {},
