@@ -10,7 +10,7 @@
   },
   "dependencies" : {
     "emutils"   : "~1.0.5",
-    "emsoap"   : "~1.0.7",
+    "emsoap"   : "~1.0.9",
     "emxml2js"  : "~0.1.14"
   },
   "devDependencies": {},
