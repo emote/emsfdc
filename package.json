@@ -2,7 +2,7 @@
     "author": "Mark Wallace <mark@emotive.com>",
     "name": "emsfdc",
     "description": "MMS proxy for Salesforce.com",
-    "version": "2.1.6",
+    "version": "2.1.7",
     "homepage": "http://www.emotive.com",
     "repository": {
         "type": "git",
